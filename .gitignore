@@ -12,8 +12,7 @@ sites/*/private
 npm-debug.log
 build/
 files/
-sites/all/themes/*/css
-sites/schoonenbergdirect.nl/themes/*/css
+#sites/all/themes/*/css
 starterkits
 
 sites/all/themes/*/.sass-cache
